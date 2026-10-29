@@ -32,55 +32,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global API development and management market is estimated at **$8B–$8.7B** and projected to surpass **$35B–$50B+** over the next decade. The sector is **moderately concentrated at the top**—where major enterprise and cloud leaders capture roughly half the overall market value—while remaining **highly fragmented across the broader developer ecosystem**, characterized by specialized, developer-first startups and open-source tooling competing aggressively in client testing, schema registries, and multi-protocol workflows.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Postman](https://www.postman.com/)**
-
-  **AI-native API platform** for developing, testing, managing, and distributing APIs. Supports HTTP, GraphQL, and gRPC across Collection Runner, with local mock servers, performance testing, and SDK generation . **Pricing**: Free tier available; paid plans per user for advanced collaboration and governance. **Free tier**: Yes, with limited collection runs and mock calls. **Best for**: teams wanting a unified, enterprise-scale platform with broad protocol support and AI-assisted workflows.
-
-
-
-- **[Apollo Studio](https://studio.apollographql.com/)**
-
-  **GraphQL schema registry and supergraph management** platform. Provides managed federation for composing subgraph schemas into a supergraph, schema history, and the Sandbox environment for exploring and testing schemas . **Pricing**: Free serverless plan available; paid tiers for enterprise features. **Free tier**: Yes, with schema reporting and sandbox access. **Best for**: GraphQL teams using Apollo Federation wanting managed schema composition and deployment workflows.
-
-
-
-- **[Shopify GraphiQL App](https://shopify.dev/docs/api/usage/api-exploration/admin-graphiql-explorer)**
-
-  **Shopify-specific GraphiQL instance** for exploring and testing the Admin API. Can be installed as a Shopify app for development stores, or launched locally via Shopify CLI (`shopify app dev` then press `g`) with the same access scopes as your app . **Pricing**: Free for Shopify partners and developers. **Free tier**: Yes (requires Shopify development store or app). **Best for**: Shopify app developers needing a pre-authenticated GraphQL environment scoped to their app's permissions.
-
-
-
-- **[Hasura Console](https://hasura.io/)**
-
-  **GraphQL engine management interface** bundled with Hasura. Provides an API tab that acts as a GraphQL playground for executing queries and mutations against indexed data, plus a Data tab for direct database table browsing and relationship viewing . **Pricing**: Hasura Cloud offers a free tier; self-hosted Hasura is open-source. **Free tier**: Yes, for Cloud with usage limits. **Best for**: teams using Hasura as their GraphQL layer wanting an integrated console for schema exploration and data verification.
-
-
-
-- **[Insomnia](https://insomnia.rest/)**
-
-  **Open-source desktop API client** (with paid Enterprise tier) for designing, debugging, and testing APIs. Natively supports HTTP, REST, gRPC, GraphQL, WebSockets, SOAP, and SSE, with authentication helpers, code generation, and environment variables . **Pricing**: Free for local use; Enterprise plan for cloud sync, SSO, RBAC, and Git Sync. **Free tier**: Yes, with local storage and core features. **Best for**: developers wanting a polished, multi-protocol desktop client with optional enterprise collaboration features.
-
-
-
-- **[Banana Cake Pop](https://chillicream.com/)**
-
-  **GraphQL IDE from the ChilliCream (Hot Chocolate) ecosystem**. Distributed as `@chillicream/bananacakepop-graphql-ide` on npm; tightly integrated with Hot Chocolate GraphQL servers but usable with any GraphQL endpoint. **Pricing**: Free (open-source per npm listing). **Free tier**: Yes. **Best for**: .NET/Hot Chocolate developers wanting a native-feeling GraphQL IDE that integrates with their server stack.
-
-
+| Platform | Company Valuation / Revenue | Starting Paid Price | Free Tier / Trial Limit | Key Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify GraphiQL App](https://shopify.dev/docs/api/usage/api-exploration/admin-graphiql-explorer)** | **$137B–$210B** Market Cap (~$8.9B–$11.6B ARR) | Free for Partners; merchant stores start at **$5/mo** (Starter) or **$39/mo** (Basic, or $29/mo billed annually) | **Free forever** for Partner development stores (unlimited dev stores and API testing, checkout disabled until client transfer); or **3-day free trial** for standard merchant stores | Shopify-specific GraphiQL explorer for inspecting and executing Admin API queries and mutations directly against store data. |
+| **[Postman](https://www.postman.com/)** | **$5.6B** Valuation (~$313M ARR) | **$9/user/month** (Solo, billed annually) or **$19/user/month** (Team, billed annually) | **Free forever**: Limited strictly to **1 user**, 10,000 Postman API calls/month, unlimited collection runs, and 5 integrations | AI-native multi-protocol API client supporting HTTP, GraphQL, and gRPC with local mock servers, automated testing, and team workspaces. |
+| **[Insomnia](https://insomnia.rest/)** | **$2.0B** Valuation (~$100M+ ARR via Kong Inc.) | **$10/user/month** (Pro, billed annually) or **$12/user/month** (billed monthly) | **Free forever** (Essentials plan): Up to **3 users** on Git Sync, unlimited local/cloud projects, and **1,000 mock server requests/month** | Multi-protocol API design, debugging, and testing client supporting HTTP, REST, GraphQL, gRPC, WebSockets, and Inso CLI. |
+| **[Apollo Studio](https://studio.apollographql.com/)** | **$1.5B** Valuation (Apollo Graph, Inc.) | **$5 per million requests** (Developer Plan pay-as-you-go, after promotional credits) | **Free forever**: Up to **3 developers**, router throughput capped at **60 requests per minute (RPM)**, and 1-day metric/check retention | GraphQL schema registry and supergraph management platform with managed Apollo Federation, schema checks, and sandbox explorer. |
+| **[Hasura Console](https://hasura.io/)** | **$1.0B** Valuation (~$30M–$40M ARR) | **$1.50 per project hour** (~$1,000+/mo for continuous 24/7 uptime) + $0.13/GB data passthrough | **Free forever** (Hasura Cloud Free): Up to **3 projects**, capped at **3 Million API requests/month** and ~100 MB data passthrough | Managed GraphQL engine console featuring an embedded API explorer/playground and data relationship browser over databases. |
+| **[Banana Cake Pop](https://chillicream.com/)** | **Private / Boutique** (ChilliCream Inc., funding/ARR undisclosed) | Free community edition; enterprise support and team workspaces via customized licensing | **Free forever** for personal workspaces, local server middleware, and individual schema exploration | Interactive GraphQL IDE optimized for the .NET/Hot Chocolate ecosystem, offering query execution, document sharing, and schema visualization. |
 
 ## Open-Source GitHub Projects
 
