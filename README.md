@@ -55,75 +55,75 @@ The global API development and management market is estimated at **$8B–$8.7B**
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source API development tools, GraphQL explorers, and multi-protocol clients, sorted in descending order by community GitHub star count:
+Curated open-source API development tools, GraphQL explorers, and multi-protocol clients, sorted in descending order by community GitHub Stars_Count:
 
-1. **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)
+1. **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub_Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)
    - **Description**: Open-source API development ecosystem (MIT) — the leading lightweight, web-first Postman alternative.
    - **Features**: REST, GraphQL, WebSocket, SSE, and MQTT support; collections, environments, and request history; self-hosted edition available for full data ownership; CLI for CI/CD pipelines; desktop app built with Tauri.
    - **Tech Stack**: Vue.js, TypeScript.
    - **Best For**: Developers wanting a polished, privacy-friendly multi-protocol API client with full self-hosting and zero account requirement.
 
-2. **[Bruno](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)
+2. **[Bruno](https://github.com/usebruno/bruno)** [![GitHub_Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)
    - **Description**: Fast and git-friendly open-source API client (MIT) challenging traditional cloud-dependent clients.
    - **Features**: Stores API collections directly as plain text files in your repository using Bru markup; native Git version control integration; offline-first architecture; supports REST and GraphQL.
    - **Tech Stack**: Electron, React, Node.js.
    - **Best For**: Engineering teams wanting their API collections checked in and versioned alongside source code.
 
-3. **[Insomnia (Open-Source)](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)
+3. **[Insomnia (Open-Source)](https://github.com/Kong/insomnia)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)
    - **Description**: Open-source desktop API client (Apache-2.0 core) powered by Kong for designing, debugging, and testing modern APIs.
    - **Features**: Multi-protocol support (HTTP, gRPC, GraphQL, WebSockets, SOAP, SSE), pre-request/after-response scripting, code generation in 10+ languages, environment variables, and theme support.
    - **Tech Stack**: Electron, React, TypeScript.
    - **Best For**: Developers wanting a mature, full-featured desktop client with seamless local or Git-synced workflows.
 
-4. **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** [![GitHub stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)
+4. **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)
    - **Description**: Blazing-fast GraphQL engine (Apache-2.0) that generates instant, realtime GraphQL and REST APIs on databases.
    - **Features**: Instant GraphQL APIs over PostgreSQL, MySQL, SQL Server, and MongoDB; built-in fine-grained access control; event triggers; embedded Console and GraphQL API Explorer for query testing.
    - **Tech Stack**: Haskell, PostgreSQL, React.
    - **Best For**: Teams wanting to instantly generate production-ready GraphQL backends and explore them inside an integrated UI.
 
-5. **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
+5. **[Swagger UI](https://github.com/swagger-api/swagger-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
    - **Description**: The industry-standard visual API documentation and interactive testing interface (Apache-2.0) for OpenAPI (Swagger) specifications.
    - **Features**: Renders dynamic, interactive documentation from OpenAPI definitions; allows developers to execute live sandbox requests directly from browser docs; widely embeddable in backend frameworks.
    - **Tech Stack**: JavaScript, React.
    - **Best For**: Developers and teams needing canonical, interactive OpenAPI documentation and live browser-based request execution.
 
-6. **[Yaak](https://github.com/mountain-loop/yaak)** [![GitHub stars](https://img.shields.io/github/stars/mountain-loop/yaak?style=social&color=white)](https://github.com/mountain-loop/yaak/stargazers)
+6. **[Yaak](https://github.com/mountain-loop/yaak)** [![GitHub_Stars](https://img.shields.io/github/stars/mountain-loop/yaak?style=social&color=white)](https://github.com/mountain-loop/yaak/stargazers)
    - **Description**: Modern, desktop REST, GraphQL, and gRPC client (MIT) built with Rust and Tauri for maximum speed and minimal memory footprint.
    - **Features**: Extremely lightweight native desktop client; tabs, environment variables, authentication helpers, full dark/light theme support; private local-first storage.
    - **Tech Stack**: Rust, Tauri, React, TypeScript.
    - **Best For**: Developers seeking an ultra-fast, native, memory-efficient alternative to Electron-heavy API clients.
 
-7. **[GraphiQL](https://github.com/graphql/graphiql)** [![GitHub stars](https://img.shields.io/github/stars/graphql/graphiql?style=social&color=white)](https://github.com/graphql/graphiql/stargazers)
+7. **[GraphiQL](https://github.com/graphql/graphiql)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql/graphiql?style=social&color=white)](https://github.com/graphql/graphiql/stargazers)
    - **Description**: The canonical reference GraphQL IDE (MIT) from the GraphQL Foundation — the original and most widely embedded GraphQL explorer.
    - **Features**: In-browser query writing, auto-completion, validation, interactive documentation explorer, syntax highlighting, and inline error reporting.
    - **Tech Stack**: React, TypeScript.
    - **Best For**: Embedding directly into GraphQL server engines or minimal standalone GraphQL exploration.
 
-8. **[Scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
+8. **[Scalar](https://github.com/scalar/scalar)** [![GitHub_Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
    - **Description**: Beautiful, modern OpenAPI interactive documentation and testing client (MIT).
    - **Features**: Modern visual alternative to Swagger UI with an integrated API client; code snippet generators; offline capabilities; highly customizable theme system.
    - **Tech Stack**: Vue.js, TypeScript.
    - **Best For**: Engineering teams wanting modern, gorgeous interactive API reference docs and embedded client playgrounds.
 
-9. **[GraphQL Playground](https://github.com/graphql/graphql-playground)** [![GitHub stars](https://img.shields.io/github/stars/graphql/graphql-playground?style=social&color=white)](https://github.com/graphql/graphql-playground/stargazers)
+9. **[GraphQL Playground](https://github.com/graphql/graphql-playground)** [![GitHub_Stars](https://img.shields.io/github/stars/graphql/graphql-playground?style=social&color=white)](https://github.com/graphql/graphql-playground/stargazers)
    - **Description**: Enhanced GraphQL IDE (MIT) built on GraphiQL components with added workflow and collaboration features.
    - **Features**: Interactive multi-column schema docs, automatic schema reloading, GraphQL Subscriptions support, query history, HTTP header configuration, and tabs.
    - **Tech Stack**: React, TypeScript.
    - **Best For**: Teams needing multi-tab query workspaces and GraphQL subscription debugging.
 
-10. **[Mockoon](https://github.com/mockoon/mockoon)** [![GitHub stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)
+10. **[Mockoon](https://github.com/mockoon/mockoon)** [![GitHub_Stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)
     - **Description**: The easiest and quickest way to run mock REST APIs locally (MIT).
     - **Features**: Zero cloud dependency; unlimited mock endpoints, route regexes, proxy mode, custom response rules, JSON templating, and automated CLI runner for CI/CD test suites.
     - **Tech Stack**: Electron, Node.js, TypeScript.
     - **Best For**: Frontend and backend developers needing fast local API mocking without third-party account requirements.
 
-11. **[Altair GraphQL Client](https://github.com/altair-graphql/altair)** [![GitHub stars](https://img.shields.io/github/stars/altair-graphql/altair?style=social&color=white)](https://github.com/altair-graphql/altair/stargazers)
+11. **[Altair GraphQL Client](https://github.com/altair-graphql/altair)** [![GitHub_Stars](https://img.shields.io/github/stars/altair-graphql/altair?style=social&color=white)](https://github.com/altair-graphql/altair/stargazers)
     - **Description**: Feature-packed GraphQL IDE (MIT) available across desktop, browser extensions, and web.
     - **Features**: Queries, mutations, and subscriptions; file upload via multipart spec; schema downloading; collection export/import; environment management; script extensions.
     - **Tech Stack**: Angular, TypeScript, Electron.
     - **Best For**: Dedicated GraphQL developers needing advanced GraphQL features like file uploads and subscription inspection.
 
-12. **[API Dash](https://github.com/foss42/apidash)** [![GitHub stars](https://img.shields.io/github/stars/foss42/apidash?style=social&color=white)](https://github.com/foss42/apidash/stargazers)
+12. **[API Dash](https://github.com/foss42/apidash)** [![GitHub_Stars](https://img.shields.io/github/stars/foss42/apidash?style=social&color=white)](https://github.com/foss42/apidash/stargazers)
     - **Description**: Beautiful, lightweight, open-source cross-platform API client (Apache-2.0) built with Flutter.
     - **Features**: Minimal resource usage; clean modern UI; supports REST and GraphQL; code generation in multiple languages; completely free and offline-first.
     - **Tech Stack**: Flutter, Dart.
